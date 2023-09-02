@@ -23,6 +23,7 @@ body{
 }
 .img-size{
     min-height: 80vh;
+    object-fit: cover;
 }
 .panel.active{
     flex: 5;
